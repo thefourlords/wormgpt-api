@@ -11,4 +11,4 @@ router.get('/status', (req, res) => {
   });
 });
 
-export default router;
+export default router;router;
