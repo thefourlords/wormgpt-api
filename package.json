@@ -1,11 +1,9 @@
 {
   "name": "wormgpt-api",
   "version": "1.0.0",
-  "description": "WormGPT API - ⚔️ 𝐓𝐇𝐄 𝐅𝐎𝐔𝐑 𝐋𝐎𝐑𝐃𝐒",
-  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/index.js"
   },
   "dependencies": {
     "express": "^4.21.2",
